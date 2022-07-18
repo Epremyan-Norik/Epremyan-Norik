@@ -26,11 +26,6 @@
 <h2>Key Points</h2>
 <ul>
  <li>Student of Lobachevsky State University of Nizhny Novgorod.</li>
- <li></li>
- <li>Spring Framework</li>
- <li>SQL: PostgreSQL, Oracle</li>
- <li>JPA - Hibernate</li>
- <li>CouchBase</li>
 </ul>
 
 <h2>Stats</h2>
