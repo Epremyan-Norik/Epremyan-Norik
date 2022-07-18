@@ -3,7 +3,7 @@
  <a href="[https://www.linkedin.com/in/norik-epremyan](https://t.me/norik_epremyan)"> <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 <p align="center"> 📫 How to reach me: epnorik@gmail.com</p>
-#About Me
+# About Me
 I'm Junior Software Developer with basic knowledge in java backend developer. Student of Lobachevsky State University of Nizhny Novgorod. I am getting a master's degree. I am always working on the quality of my code. 
 
 
