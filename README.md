@@ -18,7 +18,7 @@
 <h2>Work Experience</h2>
 <ul>
  <li><p>Netcracker Technology Corp.</p>
-  <p>2021-2022</p>
+  <p>2021-2022 (1 year)</p>
   <p>Integration team. Support and development. In my work, I fixed a lot of bugs in the integration. I worked in the development and refactoring of code for new customer requirements. </p>
  </li>
 </ul>
