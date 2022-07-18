@@ -15,16 +15,25 @@
  <li>JPA - Hibernate</li>
  <li>CouchBase</li>
 </ul>
+<h2>Work Experience</h2>
+<ul>
+ <li><p>Netcracker Technology Corp.</p>
+  <p>2021-2022</p>
+  <p>Integration team. Support and development. In my work, I fixed a lot of bugs in the integration. I worked in the development and refactoring of code for new customer requirements. </p>
+ </li>
+</ul>
+
 <h2>Key Points</h2>
 <ul>
- <li>Java language</li>
- <li>Git and SVN</li>
+ <li>Student of Lobachevsky State University of Nizhny Novgorod.</li>
+ <li></li>
  <li>Spring Framework</li>
  <li>SQL: PostgreSQL, Oracle</li>
  <li>JPA - Hibernate</li>
  <li>CouchBase</li>
 </ul>
 
+<h2>Stats</h2>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Epremyan-Norik&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Epremyan-Norik&show_icons=true&count_private=true"/></a>
