@@ -21,6 +21,10 @@
   <p>2021-2022 (1 year)</p>
   <p>Integration team. Support and development. In my work, I fixed a lot of bugs in the integration. I worked in the development and refactoring of code for new customer requirements. </p>
  </li>
+ <li><p>SWOYO</p>
+  <p>2022 - Present days</p>
+  <p>Java Developer. Work with technology stack: Java 8, SQL, TCP\UDP, HTTP, SOAP, Spring Framework, Hibernate. </p>
+ </li>
 </ul>
 
 <h2>Key Points</h2>
