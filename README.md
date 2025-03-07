@@ -27,9 +27,9 @@
  </li>
 </ul>
 
-<h2>Key Points</h2>
+<h2>Education</h2>
 <ul>
- <li>Student of Lobachevsky State University of Nizhny Novgorod.</li>
+ <li>Lobachevsky State University of Nizhny Novgorod.</li>
 </ul>
 
 <h2>Stats</h2>
