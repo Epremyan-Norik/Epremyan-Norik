@@ -5,7 +5,7 @@
 <p align="center"> 📫 How to reach me: epnorik@yandex.ru</p>
 </br>
 <h2>About Me</h2>
-<p>I'm Junior Software Developer with basic knowledge in java backend developer. Student of Lobachevsky State University of Nizhny Novgorod. I am getting a master's degree. I am always working on the quality of my code.</p>
+<p>I'm a Java Software Developer</p>
 <h2>Technical Stack</h2>
 <ul>
  <li>Java language</li>
